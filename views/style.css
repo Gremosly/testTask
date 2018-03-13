@@ -1,0 +1,7 @@
+.product_item{
+	position: static;
+	width: 500px;
+	margin: 50px;
+	border: 2px double red;
+	text-align:  center;
+}
